@@ -1,6 +1,6 @@
 # SpecLibBlackSkimmerEgg2014
 
-Contains the data and code to generate the mass spectral library for: Identifying Bioaccumulative Halogenated Organic Compounds Using a Nontargeted Analytical Approach:\nSeabirds as Sentinels.
+Contains the data and code to generate the mass spectral library for: Identifying Bioaccumulative Halogenated Organic Compounds Using a Nontargeted Analytical Approach: Seabirds as Sentinels.
 
 SpecLibBlackSkimmerEgg2014 can be installed from the package source archive file (.tar.gz file) with the latest version number. See ?install.packages within R.
 
